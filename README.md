@@ -88,4 +88,5 @@ Schema covers all key attributes to query historical launches, analyze outcomes,
 - Rate limits may still block heavy usage beyond 5-retry backoff
 
 ## Demo video
-[🎥 Watch Recording](video.mp4)
+[🎥 Watch Recording](Video.mp4)
+
